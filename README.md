@@ -1,3 +1,3 @@
-Front-End-Mentor-Projekt - Stats preview card component
+Front-End-Mentor-Projekt - Four card feature section
 
-https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
+https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
